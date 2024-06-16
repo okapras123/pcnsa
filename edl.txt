@@ -1,2 +1,3 @@
 *.youtube.com
 *.idn.id
+*.google.com
